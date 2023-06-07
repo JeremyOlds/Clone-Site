@@ -1,0 +1,13 @@
+.text-padding{
+  padding-top: 25vh;
+}
+.text-width-padding{
+  padding: 0 25vw;
+}
+.img-height{
+  height: 300px;
+}
+.img-text{
+  position: absolute;
+  bottom: -671px;
+}
